@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=agg-pranav&theme=react&show_icons=true&count_private=true&hide=issues,contributions)
+![Github stats](https://github-readme-stats.vercel.app/api?username=agg-pranav&theme=react&show_icons=true&count_private=true&hide=issues,contribs)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=agg-pranav&layout=compact&hide=html,handlebars&theme=react)
